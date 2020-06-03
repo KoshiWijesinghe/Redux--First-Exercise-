@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Redux--First-Exercise/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Redux--First-Exercise/static/js/main.1b4a0681.chunk.js",
+    "main.js.map": "/Redux--First-Exercise/static/js/main.1b4a0681.chunk.js.map",
+    "runtime-main.js": "/Redux--First-Exercise/static/js/runtime-main.9689fe3c.js",
+    "runtime-main.js.map": "/Redux--First-Exercise/static/js/runtime-main.9689fe3c.js.map",
+    "static/js/2.53c287f4.chunk.js": "/Redux--First-Exercise/static/js/2.53c287f4.chunk.js",
+    "static/js/2.53c287f4.chunk.js.map": "/Redux--First-Exercise/static/js/2.53c287f4.chunk.js.map",
+    "index.html": "/Redux--First-Exercise/index.html",
+    "precache-manifest.0f3b2445756bfa39daf726606f9b1b2e.js": "/Redux--First-Exercise/precache-manifest.0f3b2445756bfa39daf726606f9b1b2e.js",
+    "service-worker.js": "/Redux--First-Exercise/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Redux--First-Exercise/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.53c287f4.chunk.js.LICENSE.txt": "/Redux--First-Exercise/static/js/2.53c287f4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Redux--First-Exercise/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9689fe3c.js",
+    "static/js/2.53c287f4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1b4a0681.chunk.js"
+  ]
+}
