@@ -22,7 +22,7 @@ self.addEventListener('message', (event) => {
     self.skipWaiting();
   }
 });
-
+// calling clientsClaim function
 workbox.core.clientsClaim();
 
 /**
@@ -36,4 +36,5 @@ workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Redux--First-Exercise/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
+  
 });
