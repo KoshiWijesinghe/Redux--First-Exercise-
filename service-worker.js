@@ -13,6 +13,7 @@
  // Importing scripts
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
+// Importing scripts Redux
 importScripts(
   "/Redux--First-Exercise/precache-manifest.0f3b2445756bfa39daf726606f9b1b2e.js"
 );
